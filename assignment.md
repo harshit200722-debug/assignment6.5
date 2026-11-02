@@ -1,11 +1,23 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-6.5.md
+Assignment 6.5 — Profile Card / Product Card Mini-Project[cite: 30]
+What to build: A complete profile card or product card component[cite: 30].
+Profile card must include:
+- Profile image[cite: 30]
+- Name and role[cite: 30]
+- Short description[cite: 30]
+- Skills[cite: 30]
+- Contact button[cite: 30]
+Product card must include:
+- Product image[cite: 30]
+- Product name[cite: 30]
+- Price[cite: 30]
+- Short description[cite: 30]
+- Buy button[cite: 30]
+Rules:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Use box model properties[cite: 30].
+2. Add background, border, and `border-radius`[cite: 30].
+3. Place a badge or button using positioning[cite: 30].
+4. Keep CSS class names meaningful[cite: 30].
+5. Test the card on different screen widths[cite: 30].
+Submission: Finished card component, HTML/CSS files, and a screenshot[cite: 30].
